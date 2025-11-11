@@ -102,7 +102,7 @@ loading_placeholder.empty()
 # Main content
 st.markdown("""
 <div class="w3-animate-opacity" style="text-align:center; margin-top:80px;">
-    <h1 style="font-weight:600; font-size:40px; color:#3C2A21;">Welcome to My Data Science Portfolio</h1>
+    <h1 style="font-weight:600; font-size:40px; color:#3C2A21;">Welcome to Nia's Data Science Portfolio! </h1>
     <p style="font-size:18px; color:#555;">Explore interactive dashboards, projects, and analytics powered by Python and Streamlit.</p>
 </div>
 """, unsafe_allow_html=True)
